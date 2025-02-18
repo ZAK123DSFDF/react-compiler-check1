@@ -21,6 +21,7 @@ export default function Home() {
         <SlowComponent/>
           <h1>this is the first commit code</h1>
           <h1>this change is on the check</h1>
+          <h1>this is the second change</h1>
       </>
   );
 }
