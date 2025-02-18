@@ -20,6 +20,7 @@ export default function Home() {
         <button onClick={()=>setCount(count+1)}>increment</button>
         <SlowComponent/>
           <h1>this is the first commit code</h1>
+          <h1>this change is on the check</h1>
       </>
   );
 }
