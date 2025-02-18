@@ -19,6 +19,7 @@ export default function Home() {
         <h1>{count}</h1>
         <button onClick={()=>setCount(count+1)}>increment</button>
         <SlowComponent/>
+          <h1>this is the first commit code</h1>
       </>
   );
 }
